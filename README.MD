@@ -27,3 +27,5 @@ Find the App Useful? [You can always buy me a coffee](https://www.buymeacoffee.c
 10. E-Commerce API
 11. Auth Workflow (verify email, reset password)
 12. Sessions
+
+Link tot youtube video : https://www.youtube.com/watch?v=Oe421EPjeBE
